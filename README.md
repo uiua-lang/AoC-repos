@@ -1,2 +1,3 @@
-# AoC-repos
-Links to Uiua Advent of Code solution repos
+# Advent of Code repos
+
+Below are links to various people's [Advent of Code](https://adventofcode.com/) solutions written in Uiua.
